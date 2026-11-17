@@ -1,0 +1,8 @@
+{
+ "item.anchorarsenal.iron_anchor":"Iron Anchor","item.anchorarsenal.gold_anchor":"Golden Anchor","item.anchorarsenal.diamond_anchor":"Diamond Anchor","item.anchorarsenal.netherite_anchor":"Netherite Anchor",
+ "item.anchorarsenal.iron_sabre":"Iron Sabre","item.anchorarsenal.gold_sabre":"Golden Sabre","item.anchorarsenal.diamond_sabre":"Diamond Sabre","item.anchorarsenal.netherite_sabre":"Netherite Sabre",
+ "item.anchorarsenal.iron_mace":"Iron Mace","item.anchorarsenal.gold_mace":"Golden Mace","item.anchorarsenal.diamond_mace":"Diamond Mace","item.anchorarsenal.netherite_mace":"Netherite Mace",
+ "item.anchorarsenal.stone_dagger":"Stone Dagger","item.anchorarsenal.iron_dagger":"Iron Dagger","item.anchorarsenal.gold_dagger":"Golden Dagger","item.anchorarsenal.diamond_dagger":"Diamond Dagger","item.anchorarsenal.netherite_dagger":"Netherite Dagger",
+ "item.anchorarsenal.iron_glaive":"Iron Glaive","item.anchorarsenal.gold_glaive":"Golden Glaive","item.anchorarsenal.diamond_glaive":"Diamond Glaive","item.anchorarsenal.netherite_glaive":"Netherite Glaive",
+ "tooltip.anchorarsenal.reach":"Reach: %s blocks"
+}

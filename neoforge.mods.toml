@@ -1,0 +1,21 @@
+modLoader="javafml"
+loaderVersion="[4,)"
+license="MIT"
+[[mods]]
+modId="anchorarsenal"
+version="1.0.0"
+displayName="Anchor Arsenal"
+authors="Dorsz3000"
+description='''Adds anchors, sabres, maces, daggers and glaives.'''
+[[dependencies.anchorarsenal]]
+modId="neoforge"
+type="required"
+versionRange="[21.1.172,)"
+ordering="NONE"
+side="BOTH"
+[[dependencies.anchorarsenal]]
+modId="minecraft"
+type="required"
+versionRange="[1.21.1,1.22)"
+ordering="NONE"
+side="BOTH"

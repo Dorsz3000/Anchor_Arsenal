@@ -1,0 +1,8 @@
+{
+ "item.anchorarsenal.iron_anchor":"Żelazna kotwica","item.anchorarsenal.gold_anchor":"Złota kotwica","item.anchorarsenal.diamond_anchor":"Diamentowa kotwica","item.anchorarsenal.netherite_anchor":"Netherytowa kotwica",
+ "item.anchorarsenal.iron_sabre":"Żelazna szabla","item.anchorarsenal.gold_sabre":"Złota szabla","item.anchorarsenal.diamond_sabre":"Diamentowa szabla","item.anchorarsenal.netherite_sabre":"Netherytowa szabla",
+ "item.anchorarsenal.iron_mace":"Żelazna maczuga","item.anchorarsenal.gold_mace":"Złota maczuga","item.anchorarsenal.diamond_mace":"Diamentowa maczuga","item.anchorarsenal.netherite_mace":"Netherytowa maczuga",
+ "item.anchorarsenal.stone_dagger":"Kamienny sztylet","item.anchorarsenal.iron_dagger":"Żelazny sztylet","item.anchorarsenal.gold_dagger":"Złoty sztylet","item.anchorarsenal.diamond_dagger":"Diamentowy sztylet","item.anchorarsenal.netherite_dagger":"Netherytowy sztylet",
+ "item.anchorarsenal.iron_glaive":"Żelazna glewia","item.anchorarsenal.gold_glaive":"Złota glewia","item.anchorarsenal.diamond_glaive":"Diamentowa glewia","item.anchorarsenal.netherite_glaive":"Netherytowa glewia",
+ "tooltip.anchorarsenal.reach":"Zasięg: %s bloków"
+}
