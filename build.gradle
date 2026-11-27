@@ -36,12 +36,13 @@ neoForge {
     }
 }
 
-dependencies {
-    repositories {
+repositories {
     maven {
         name = 'GeckoLib'
         url = 'https://dl.cloudsmith.io/public/geckolib3/geckolib/maven/'
     }
 }
+
+dependencies {
     implementation "software.bernie.geckolib:geckolib-neoforge-1.21.1:${geckolib_version}"
 }
