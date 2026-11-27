@@ -19,7 +19,7 @@ import software.bernie.geckolib.animation.AnimationController;
 import software.bernie.geckolib.animation.RawAnimation;
 import software.bernie.geckolib.animation.PlayState;
 
-import software.bernie.geckolib.renderer.GeoRenderProvider;
+import software.bernie.geckolib.animatable.client.GeoRenderProvider;
 import software.bernie.geckolib.util.GeckoLibUtil;
 
 import pl.dorsz.anchorarsenal.client.renderer.IronMaceRenderer;
