@@ -1,15 +1,16 @@
 
 pluginManagement {
-repositories {
-    maven {
-        name = 'GeckoLib'
-        url = 'https://dl.cloudsmith.io/public/geckolib3/geckolib/maven/'
+    repositories {
+        gradlePluginPortal()
+
+        maven {
+            url = 'https://maven.neoforged.net/releases'
+        }
     }
-}
 }
 
 dependencyResolutionManagement {
-repositoriesMode.set(RepositoriesMode.PREFER_PROJECT)
+    repositoriesMode.set(RepositoriesMode.PREFER_SETTINGS)
 
     repositories {
         mavenCentral()
@@ -26,4 +27,3 @@ repositoriesMode.set(RepositoriesMode.PREFER_PROJECT)
 }
 
 rootProject.name = 'AnchorArsenal'
-
