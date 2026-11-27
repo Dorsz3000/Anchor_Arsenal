@@ -1,0 +1,329 @@
+{
+  "format_version": "1.8.0",
+  "animations": {
+    "animation.anchor_arsenal.iron_mace.idle": {
+      "loop": true,
+      "animation_length": 2.0,
+      "bones": {
+        "all": {
+          "rotation": [
+            {
+              "vector": [
+                0.0,
+                0.0,
+                0.0
+              ],
+              "time": 0.0
+            },
+            {
+              "vector": [
+                -1.2,
+                0.0,
+                -1.0
+              ],
+              "time": 0.5
+            },
+            {
+              "vector": [
+                0.0,
+                0.0,
+                0.0
+              ],
+              "time": 1.0
+            },
+            {
+              "vector": [
+                1.2,
+                0.0,
+                1.0
+              ],
+              "time": 1.5
+            },
+            {
+              "vector": [
+                0.0,
+                0.0,
+                0.0
+              ],
+              "time": 2.0
+            }
+          ]
+        }
+      }
+    },
+    "animation.anchor_arsenal.iron_mace.attack": {
+      "loop": false,
+      "animation_length": 0.55,
+      "bones": {
+        "all": {
+          "rotation": [
+            {
+              "vector": [
+                0.0,
+                0.0,
+                0.0
+              ],
+              "time": 0.0
+            },
+            {
+              "vector": [
+                18.0,
+                0.0,
+                -12.0
+              ],
+              "time": 0.12
+            },
+            {
+              "vector": [
+                -48.0,
+                0.0,
+                24.0
+              ],
+              "time": 0.27
+            },
+            {
+              "vector": [
+                12.0,
+                0.0,
+                -6.0
+              ],
+              "time": 0.4
+            },
+            {
+              "vector": [
+                0.0,
+                0.0,
+                0.0
+              ],
+              "time": 0.55
+            }
+          ]
+        },
+        "glowica": {
+          "rotation": [
+            {
+              "vector": [
+                0.0,
+                0.0,
+                0.0
+              ],
+              "time": 0.0
+            },
+            {
+              "vector": [
+                8.0,
+                0.0,
+                0.0
+              ],
+              "time": 0.12
+            },
+            {
+              "vector": [
+                -14.0,
+                0.0,
+                0.0
+              ],
+              "time": 0.27
+            },
+            {
+              "vector": [
+                4.0,
+                0.0,
+                0.0
+              ],
+              "time": 0.4
+            },
+            {
+              "vector": [
+                0.0,
+                0.0,
+                0.0
+              ],
+              "time": 0.55
+            }
+          ]
+        }
+      }
+    },
+    "animation.anchor_arsenal.iron_mace.slam": {
+      "loop": false,
+      "animation_length": 0.8,
+      "bones": {
+        "all": {
+          "rotation": [
+            {
+              "vector": [
+                0.0,
+                0.0,
+                0.0
+              ],
+              "time": 0.0
+            },
+            {
+              "vector": [
+                42.0,
+                0.0,
+                -8.0
+              ],
+              "time": 0.18
+            },
+            {
+              "vector": [
+                -62.0,
+                0.0,
+                10.0
+              ],
+              "time": 0.38
+            },
+            {
+              "vector": [
+                -8.0,
+                0.0,
+                0.0
+              ],
+              "time": 0.52
+            },
+            {
+              "vector": [
+                0.0,
+                0.0,
+                0.0
+              ],
+              "time": 0.8
+            }
+          ],
+          "position": [
+            {
+              "vector": [
+                0.0,
+                -0.0,
+                0.0
+              ],
+              "time": 0.0
+            },
+            {
+              "vector": [
+                0.0,
+                -1.5,
+                0.0
+              ],
+              "time": 0.18
+            },
+            {
+              "vector": [
+                0.0,
+                1.2,
+                0.0
+              ],
+              "time": 0.38
+            },
+            {
+              "vector": [
+                0.0,
+                -0.3,
+                0.0
+              ],
+              "time": 0.52
+            },
+            {
+              "vector": [
+                0.0,
+                -0.0,
+                0.0
+              ],
+              "time": 0.8
+            }
+          ]
+        },
+        "glowica": {
+          "rotation": [
+            {
+              "vector": [
+                0.0,
+                0.0,
+                0.0
+              ],
+              "time": 0.0
+            },
+            {
+              "vector": [
+                12.0,
+                0.0,
+                0.0
+              ],
+              "time": 0.18
+            },
+            {
+              "vector": [
+                -20.0,
+                0.0,
+                0.0
+              ],
+              "time": 0.38
+            },
+            {
+              "vector": [
+                -3.0,
+                0.0,
+                0.0
+              ],
+              "time": 0.52
+            },
+            {
+              "vector": [
+                0.0,
+                0.0,
+                0.0
+              ],
+              "time": 0.8
+            }
+          ]
+        },
+        "kolce": {
+          "rotation": [
+            {
+              "vector": [
+                0.0,
+                0.0,
+                0.0
+              ],
+              "time": 0.0
+            },
+            {
+              "vector": [
+                6.0,
+                0.0,
+                0.0
+              ],
+              "time": 0.18
+            },
+            {
+              "vector": [
+                -10.0,
+                0.0,
+                0.0
+              ],
+              "time": 0.38
+            },
+            {
+              "vector": [
+                0.0,
+                0.0,
+                0.0
+              ],
+              "time": 0.52
+            },
+            {
+              "vector": [
+                0.0,
+                0.0,
+                0.0
+              ],
+              "time": 0.8
+            }
+          ]
+        }
+      }
+    }
+  }
+}
