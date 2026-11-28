@@ -59,7 +59,7 @@ public class IronMaceItem extends MaceItem implements GeoItem {
                         this,
                         "main_controller",
                         0,
-                        state -> state.setAndContinue(IDLE)
+state -> PlayState.STOP
                 )
                 .triggerableAnim("attack", ATTACK)
                 .triggerableAnim("slam", SLAM)
